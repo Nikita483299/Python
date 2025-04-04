@@ -1,3 +1,3 @@
-# NIKITA
+# Python
 
 lessons
