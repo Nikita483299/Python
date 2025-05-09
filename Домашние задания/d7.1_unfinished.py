@@ -7,5 +7,5 @@ lst2 = [i for i in range(10, 20)]
 dct = {}
 
 for i in lst:
-    dct[range(10, 20)] = lst
+    dct[lst2] = lst
 print(dct)
