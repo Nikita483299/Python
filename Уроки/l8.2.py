@@ -1,13 +1,13 @@
-dct = {
-    1: 2,
+dct = { # словарь
+    1: 2, # ключ: значение
     2: 3,
     3: 4
 }
 
-dct2 = {}
+dct2 = {} # создание пустого словаря
 
-for i in dct.values():
-    if type(i) == int:
-        dct2[i] = None
+for i in dct.values(): # цикл в значениях
+    if type(i) == int: # если тип значения = числу
+        dct2[i] = None # добавляем значение из dct как ключ в dct2 с пустым значением
 
 print(dct2)
