@@ -1,3 +1,3 @@
-from datetime import datetime # библиотека
+from datetime import datetime # Р±РёР±Р»РёРѕС‚РµРєР°
 
-print(datetime.now()) # выводит дату в таком формате 2025-06-15 10:48:53.716205
+print(datetime.now()) # РїРѕРєР°Р·СѓРµС‚ РІСЂРµРјСЏ РІ С‚Р°РєРѕРј С„РѕСЂРјР°С‚Рµ 2025-06-15 10:48:53.716205
